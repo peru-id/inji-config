@@ -4,22 +4,22 @@
       "credential_issuer": "Reneic",
       "display": [
         {
-          "name": "National Identity",
+          "name": "DNI Digital",
           "logo": {
             "url": "https://peru-id.github.io/inji-config/Logo/Reniec.JPG",
             "alt_text": "Reneic-logo"
           },
-          "title": "National Identity",
+          "title": "DNI Digital",
           "description": "Download Reneic Identity Credential",
           "language": "en"
         },
         {
-          "name": "Identidad Nacional",
+          "name": "DNI Digital",
           "logo": {
             "url": "https://peru-id.github.io/inji-config/Logo/Reniec.JPG",
             "alt_text": "logotipo-reniec"
           },
-          "title": "Identidad Nacional",
+          "title": "DNI Digital",
           "description": "Descargar Credencial de Identidad Reniec",
           "language": "es"
         }
